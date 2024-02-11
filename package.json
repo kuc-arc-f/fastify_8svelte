@@ -2,9 +2,9 @@
   "type": "module",
   "scripts": {
     "start": "node ./dist/index.js",
-    "dev": "nodemon ./dist/index.js",
+    "dev": "nodemon",
+    "dev:test": "nodemon ./dist/index.js",
     "watch": "node buildWach.js",
-    "dev:test": "NODE_ENV=develop nodemon -I --exec node --experimental-specifier-resolution=node  --loader ts-node/esm ./src/index.ts",
     "build": "node build.js && npx vite build --mode client",
     "build:test": "vite build && vite build --mode client",
     "test": "ts-node src/index.ts"

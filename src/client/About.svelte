@@ -7,7 +7,7 @@ console.log("#about");
   <div>
     <a href="/">[ home ]</a>
     <hr />
-    <h1>About123</h1>
+    <h1>About...</h1>
   </div>
 </main>
 
