@@ -28,9 +28,6 @@ npx vite build --mode client --watch
 
 ```
 node build.js && npx vite build --mode client
-
-# watch
-node buildWach.js
 ```
 * dev-start
 ```
@@ -38,11 +35,9 @@ yarn dev
 ```
 
 ***
-
-
-***
 ### blog 
 
+https://zenn.dev/knaka0209/scraps/fe7d58968b1569
 
 ***
 
