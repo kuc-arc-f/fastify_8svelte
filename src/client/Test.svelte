@@ -14,8 +14,8 @@ const handleClick = function(){
   <div>
     <Head />
     <hr />
-    <h1>Test123</h1>
-    <hr />
+    <h1 class="text-4xl font-bold">Test</h1>
+    <hr class="my-2" />
     <button on:click={handleClick} class="btn btn-primary">Test</button>
   </div>
 </main>
