@@ -35,6 +35,16 @@ yarn dev
 ```
 
 ***
+### tailwindcss
+
+```
+npx tailwindcss -i ./src/main.css -o ./public/static/main.css
+
+#watch-mode
+npx tailwindcss -i ./src/main.css -o ./public/static/main.css --watch
+```
+
+***
 ### blog 
 
 https://zenn.dev/knaka0209/scraps/fe7d58968b1569
