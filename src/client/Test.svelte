@@ -1,6 +1,6 @@
 <script lang="ts">
 import Head from '../components/Head.svelte'; 
-
+//let v1:number = 0;
 console.log("#about");
 
 //
